@@ -1,10 +1,13 @@
 import java.util.Scanner;
 
-public class Main {
+public class Example1 {
+
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.util.in);
-        double radius = input.nextDouble();
-        double area = Math.PI * Math.pow(radius, 2);
+        Scanner input = new Scanner(System.in);
+
+        double radious = input.nextDouble();
+        double area = Math.PI * Math.pow(radious, 2);
         System.out.println(area);
+
     }
 }
