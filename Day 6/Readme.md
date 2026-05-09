@@ -1,4 +1,4 @@
-Day #06
+#6
 
 Title : Object Oriented Pattern & Design Lab
 
