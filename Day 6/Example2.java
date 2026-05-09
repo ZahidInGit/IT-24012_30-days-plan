@@ -8,7 +8,7 @@ class Circle implements Shape {
     }
 }
 
-public class Main {
+public class Example2{
     public static void main(String[] args) {
         Shape s = new Circle();
         s.draw();
