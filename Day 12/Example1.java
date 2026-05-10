@@ -1,6 +1,6 @@
 import java.util.TreeMap;
 
-public class Example2 {
+public class Example1{
     public static void main(String[] args) {
         TreeMap<String, Integer> map = new TreeMap<>();
         map.put("Banana", 2);
